@@ -1,0 +1,8 @@
+pkg update
+pkg upgrade
+pkg install pythone 
+pkg instal git
+git@github.com:TayyabTanveer1/Tabi.git-facebook-breaker
+Username:
+ls
+password:
